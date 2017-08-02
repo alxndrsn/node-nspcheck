@@ -1,0 +1,22 @@
+{
+  "name": "nspcheck",
+  "version": "1.0.0",
+  "description": "Not nsp.",
+  "main": "lol.js",
+  "bin": {
+    "nspcheck": "lol.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alxndrsn/node-nspcheck.git"
+  },
+  "author": "alxndrsn",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/alxndrsn/node-nspcheck/issues"
+  },
+  "homepage": "https://github.com/alxndrsn/node-nspcheck#readme"
+}
